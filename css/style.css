@@ -28,11 +28,6 @@ img {
     border: 10px dashed #FFFFFF;
 }
 
-div {
-    min-height: 125px;
-    padding: 20px;
-    border: 3px solid #FFFFFF;
-}
 
 .introduction {
     border-radius: 15px;
@@ -76,10 +71,16 @@ div {
 }
 
 .green {
-    background-color: #00D800;
+    background-color: #008500;
     text-align: left;
     margin-right: 50px;
     border-width: 2px 5px 0 0;
+}
+
+div {
+    min-height: 125px;
+    padding: 20px;
+    border: 3px solid #FFFFFF;
 }
 
 footer {
